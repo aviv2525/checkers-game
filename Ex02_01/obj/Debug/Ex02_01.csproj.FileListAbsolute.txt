@@ -1,0 +1,17 @@
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02_01.exe.config
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02_01.exe
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02_01.pdb
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.csproj.Up2Date
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.exe
+C:\Users\natan\OneDrive\מסמכים\year3\c#\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.pdb
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02_01.exe.config
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02_01.exe
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\bin\Debug\Ex02_01.pdb
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.csproj.Up2Date
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.exe
+C:\Users\User\Desktop\C# . Net\C25 Ex02 Natanel 314684697 Aviv 208667089\Ex02_01\obj\Debug\Ex02_01.pdb
